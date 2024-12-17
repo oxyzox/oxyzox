@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Blood Donation Web app](https://github.com/oxyzox/Blood-dono-project)
 
-- 👨‍💻 All of my projects are available at [https://oxyzox.github.io/Oxy./](https://oxyzox.github.io/Oxy./)
+- 👨‍💻 All of my projects are available at [oxyzox](https://oxyzox.xyz)
 
 - 💬 Ask me about **Pycord Lua DevOps**
 
