@@ -5,5 +5,6 @@ I'm a developer who enjoys building web apps, bots, and cool projects.
 - 🌱 Learning: Linux
 - ⚒️ Working on: Personal Projects
 - 💬 Ask me about: Web dev, bots, or anything tech!
+- 💻 Portfolio: https://fwkalyan.vercel.app/
 
 Thanks for visiting! 😊
